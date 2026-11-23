@@ -150,17 +150,7 @@ https://data.mendeley.com/datasets/rc5htd5dfr/1
 
 Graduate Assistant Department of Mathematics and Computer Science, Kashim Ibrahim University, Maiduguri
 
-LinkedIn: [My LinkedIn Profile]((https://www.linkedin.com/in/ali-chiroma?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ali-chiroma)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-chiroma" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
-
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ali-chiroma)
+LinkedIn: [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ali-chiroma)
 
 
 
