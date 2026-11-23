@@ -14,6 +14,7 @@ Student stress is common but hard to spot early, and counselling units cannot se
 - Deliver it as a small web app anyone can run.
 
 ## 3. Dataset
+- This dataset contains 3000 anonymized responses collected from undergraduate students (aged 19–24) studying at public, private, and national universities in Bangladesh.
 - 3,000 student records, 18 columns, with Low / Medium / High stress as the target.
 - Features include study load, sleep, screen time, social media use, family support, anxiety and exercise.
 - The data looks synthetic (for example, 729 rows have screen time lower than social media use), so results should be read as a method demonstration.
@@ -139,7 +140,7 @@ I appreciate my 3MTT-DeepTech-DSN WESOnline mentor **Daniella Ojekere** for the 
 Thanks to 3MTT and Deep Tech for the opportunity to learn and gain practical experience.
 
 ## Data source
-
+https://data.mendeley.com/datasets/rc5htd5dfr/1
 
 
 ## 👨‍💻 Author
