@@ -146,11 +146,10 @@ https://data.mendeley.com/datasets/rc5htd5dfr/1
 
 
 ## 👨‍💻 Author
-**Ali Chiroma**
+**Ali Muhammad Chiroma**
 
 Graduate Assistant Department of Mathematics and Computer Science, Kashim Ibrahim University, Maiduguri
 
-GitHub: [My GitHub Profile](https://github.com/YOUR-USERNAME)
-LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/YOUR-PROFILE)
+LinkedIn: [My LinkedIn Profile]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/ali-chiroma?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 This project was completed as part of the 3MTT mentorship programme.
