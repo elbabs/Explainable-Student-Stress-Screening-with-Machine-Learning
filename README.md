@@ -77,10 +77,10 @@ The simple, explainable model won. **Please read the caveat below before quoting
 - Explanations show what the model uses, not what causes stress.
 
 ## ⚠️ Project Limitations
-- The labels are rule-based, so the 1.00 score shows the pipeline found the rule. **It is not real-world accuracy.**
-- The data appears synthetic and is not from real students.
-- No clinical validation has been done.
-- What-if suggestions are model-based ideas, not medical advice.
+- The labels are a formula. Stress_Level is a threshold of Stress_Score, which is an exact sum of eight columns. The near perfect scores show that the pipeline can recover a rule.
+- The data target classes are imbalanced.
+- Single dataset, single split. The models were never tested on a second dataset.
+- Not a diagnosis. It can not replace a counsellor or clinician
 
 ## 🚀 Future Improvements
 - Collect real responses with a Google Form using the PSS-10 stress scale.
