@@ -150,6 +150,6 @@ https://data.mendeley.com/datasets/rc5htd5dfr/1
 
 Graduate Assistant Department of Mathematics and Computer Science, Kashim Ibrahim University, Maiduguri
 
-LinkedIn: [My LinkedIn Profile]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/ali-chiroma?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ali-chiroma?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 This project was completed as part of the 3MTT mentorship programme.
