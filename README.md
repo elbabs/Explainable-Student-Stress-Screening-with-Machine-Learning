@@ -150,7 +150,7 @@ https://data.mendeley.com/datasets/rc5htd5dfr/1
 
 Graduate Assistant Department of Mathematics and Computer Science, Kashim Ibrahim University, Maiduguri
 
-LinkedIn: 💼 **LinkedIn:** [Ali Chiroma](https://www.linkedin.com/in/ali-chiroma)
+💼 **LinkedIn:** [Ali Chiroma](https://www.linkedin.com/in/ali-chiroma)
 
 
 
