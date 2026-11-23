@@ -1,5 +1,6 @@
 # 🧠 WESOnline: Explainable Student Stress Screening with Machine Learning
-
+🔗 **Live app:** [Open WESOnline](https://explainable-student-stress-screening-with-machine-learning-hbp.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://explainable-student-stress-screening-with-machine-learning-hbp.streamlit.app/)
 A machine learning project that estimates whether a university student's stress is **Low, Medium or High**, explains why, and suggests small habit changes that could lower it. Built as a Streamlit app.
 
 > ⚠️ **This is a screening aid, not a medical diagnosis.** A High result means a student may benefit from talking to a counsellor, nothing more.
