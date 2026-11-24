@@ -65,7 +65,7 @@ Scores on the 600 held-out students:
 | Gradient Boosting | 0.863 |
 | Dummy (always predicts Medium) | 0.215 |
 
-The simple, explainable model won. **Please read the caveat below before quoting the 1.00.**
+The simple, explainable model won.
 
 ## 🔍 Explainability
 - **Logistic Regression coefficients** show which features push the result up or down.
